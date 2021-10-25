@@ -1,2 +1,4 @@
 # TypeScript.Fraction
- Basic fraction operations
+
+Fraction represents a fraction with numerator and denominator.
+This class allow basic fraction operations.
